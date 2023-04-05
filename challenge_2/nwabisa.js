@@ -1,4 +1,7 @@
-export const nwabisa = {
+/**
+ * Information about Nwabisa
+ */
+const nwabisa = {
   firstname: "Nwabisa",
   surname: "Gabe",
   role: "CEO",

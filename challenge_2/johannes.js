@@ -1,3 +1,6 @@
+/**
+ * Information about Johannes
+ */
 const johannes = {
   firstname: "Johannes",
   surname: "Potgieter",

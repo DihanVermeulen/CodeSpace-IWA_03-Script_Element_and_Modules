@@ -1,3 +1,7 @@
+/**
+ * Information about Alex
+ */
+
 const alex = {
   firstname: "Alex",
   surname: "Naidoo",
